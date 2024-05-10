@@ -364,4 +364,32 @@ declare namespace Live2DCubismCore {
         private constructor();
     }
     /** Emscripten Cubism Core module. */
+    export {
+        Logging,
+        Model,
+        csmLogFunction,
+        Memory,
+        Moc,
+        Utils,
+        Version,
+        Drawables,
+        Parameters,
+        Parts,
+        CanvasInfo,
+        csmMocVersion,
+        csmVersion,
+        csmParameterType,
+        AlignofMoc,
+        AlignofModel,
+        MocVersion_30,
+        MocVersion_33,
+        MocVersion_40,
+        MocVersion_42,
+        MocVersion_50,
+        MocVersion_Unknown,
+        ParameterType_BlendShape,
+        ParameterType_Normal,
+    }
 }
+
+export = Live2DCubismCore;
