@@ -1,0 +1,8 @@
+{
+    "name": "@hazart-pkg/live2d-core",
+    "version": "1.0.0",
+    "description": "Live2D Cubism Core v5",
+    "author": "Live2D",
+    "main": "live2dcubismcore.js",
+    "types": "./live2dcubismcore.d.ts"
+  }
